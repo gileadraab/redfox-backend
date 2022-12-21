@@ -1,5 +1,7 @@
 # redfox-backend
 
+Trabalho para conclusão de curso Bootcamp Labenu 2022 feito a partir do [Teste de Backend REDFOX](https://github.com/RedFoxTech/vaga-backend-teste)
+
  Esta API permite a inserção de dados de pokemons enviados em um arquivo xlsx ao banco de dados. Esses dados podem ser pesquisados e filtrados por queries como "id", "name" ou "geração", ordenados por ordem crescente "ASC" ou descrescente "DESC"
  
 
